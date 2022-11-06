@@ -1,6 +1,6 @@
 # Analysis-using-Big-Data-Tools-and-Techniques
 
-This project involves analysis of Clinical trials data using three implementations - Pyspark(RDD and Dataframes), Hive-SQL and AWS services. 
+This project involves analysis of Clinical trials data using three implementations - Pyspark(RDD and Dataframes), Hive-SQL on Azure data bricks along with AWS services(S3, Glue and Athena) on AWS platform. 
 
 Following are the problem statements that will be implemented with different techniques
 
@@ -19,3 +19,4 @@ is 2021.
 
 
 Data loading has been done as part of dataloading.ipynb
+
