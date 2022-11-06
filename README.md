@@ -16,3 +16,6 @@ of clinical trials they have sponsored. Hint: For a basic implementation, you ca
 Parent Company column contains all possible pharmaceutical companies.
 6. Plot number of completed studies each month in a given year { for the submission dataset, the year
 is 2021. 
+
+
+Data loading has been done as part of shridhar_dataloading.ipynb
