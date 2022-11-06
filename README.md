@@ -18,4 +18,4 @@ Parent Company column contains all possible pharmaceutical companies.
 is 2021. 
 
 
-Data loading has been done as part of shridhar_dataloading.ipynb
+Data loading has been done as part of dataloading.ipynb
